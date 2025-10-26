@@ -172,7 +172,7 @@ export default function App() {
               <button onClick={() => redeemReward(50)}>Redeem</button>
             </div>
             <div className="reward-item">
-              <h3>Transit Pass 🎫</h3>
+              <h3>Transit Passes 🎫</h3>
               <p>Cost: 120 credits</p>
               <button onClick={() => redeemReward(120)}>Redeem</button>
             </div>
