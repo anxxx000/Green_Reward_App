@@ -1,6 +1,6 @@
 # Link of the App
 
-<a href="https://anxxx000.github.io/Green_Reward_App/" target="_blank" rel="noopener noreferrer">Open Green Reward App</a>
+<a href="https://anxxx000.github.io/Green_Reward_App/" target="_blank" rel="noopener noreferrer">https://anxxx000.github.io/Green_Reward_App/</a>
 
 # Run the Green Reward App locally:
 
