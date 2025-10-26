@@ -1,3 +1,8 @@
+# Link of the App:
+
+[https://anxxx000.github.io/Green_Reward_App/
+](https://anxxx000.github.io/Green_Reward_App/)
+
 # Run the Green Reward App locally:
 
 Check if we are in the right directory:
